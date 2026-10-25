@@ -1,8 +1,8 @@
-\# Software Engineering Labs
+# Software Engineering Labs
 
 
 
-\*\*A structured collection of Software Engineering laboratory experiments, implementations, and project work.\*\*
+**A structured collection of Software Engineering laboratory experiments, implementations, and project work.**
 
 
 
@@ -14,51 +14,44 @@ The goal is to maintain a clean, accessible, and well-organized record of practi
 
 
 
-\---
+---
 
 
 
-\## Table of Contents
+## Table of Contents
 
 
 
-\- \[Overview](#overview)
 
-\- \[Lab Index](#lab-index)
 
-\- \[Repository Structure](#repository-structure)
+- [Lab Index](#lab-index)
 
-\- \[Technologies and Tools](#technologies-and-tools)
+- [Repository Structure](#repository-structure)
 
-\- \[Getting Started](#getting-started)
+- [Technologies and Tools](#technologies-and-tools)
 
-\- \[Working with the Labs](#working-with-the-labs)
+- [Getting Started](#getting-started)
 
-\- \[Repository Guidelines](#repository-guidelines)
+- [Repository Guidelines](#repository-guidelines)
 
-\- \[Author](#author)
-
-\- \[Disclaimer](#disclaimer)
+- [Author](#author)
 
 
 
-\---
+
+
+---
 
 
 
-\## Lab Index
-
+## Lab Index
 
 
 | Laboratory | Description | Directory |
-
-|:---:|---|---|
-
-| Lab 1 | First laboratory experiments and associated project files | \[Open Lab 1](./Lab%201/) |
-
-| Lab 2 | Second laboratory experiments and associated project files | \[Open Lab 2](./Lab%202/) |
-
-| Lab 3 | Third laboratory experiments and associated project files | \[Open Lab 3](./Lab%203/) |
+|---|---|---|
+| **Lab 1** | First laboratory experiments and associated project files | [Open Lab 1](./Lab%201/) |
+| **Lab 2** | Second laboratory experiments and associated project files | [Open Lab 2](./Lab%202/) |
+| **Lab 3** | Third laboratory experiments and associated project files | [Open Lab 3](./Lab%203/) |
 
 
 
@@ -66,11 +59,11 @@ The goal is to maintain a clean, accessible, and well-organized record of practi
 
 
 
-\---
+---
 
 
 
-\## Repository Structure
+## Repository Structure
 
 
 
@@ -80,27 +73,21 @@ The repository follows a simple, lab-wise directory structure.
 
 ```text
 
-SE\_Labs/
+SE_Labs
 
 │
 
-├── Lab 1/
+├── Lab 1
 
 │   └── Experiment files and resources
 
-│
-
-├── Lab 2/
+├── Lab 2
 
 │   └── Experiment files and resources
 
-│
-
-├── Lab 3/
+├── Lab 3
 
 │   └── Experiment files and resources
-
-│
 
 ├── README.md
 
@@ -116,11 +103,11 @@ The structure may be extended as additional laboratory assignments are completed
 
 
 
-\---
+---
 
 
 
-\## Technologies and Tools
+## Technologies and Tools
 
 
 
@@ -129,15 +116,10 @@ The tools used may vary depending on the requirements of each experiment.
 
 
 | Tool | Purpose |
-
 |---|---|
-
 | Git | Version control and tracking changes |
-
 | GitHub | Hosting, sharing, and managing the repository |
-
 | Visual Studio Code | Editing and managing project files |
-
 | Relevant programming languages and development tools | Implementing and executing individual experiments |
 
 
@@ -146,29 +128,29 @@ Additional frameworks, libraries, or tools will be documented in the relevant la
 
 
 
-\---
+---
 
 
 
-\## Getting Started
+## Getting Started
 
 
 
-\### Prerequisites
+### Prerequisites
 
 
 
-\- A computer running Windows, Linux, or macOS.
+- A computer running Windows, Linux, or macOS.
 
-\- Git installed for version control.
+- Git installed for version control.
 
-\- A suitable code editor or IDE.
+- A suitable code editor or IDE.
 
-\- Any language runtime, compiler, framework, or dependency required by the specific experiment.
+- Any language runtime, compiler, framework, or dependency required by the specific experiment.
 
 
 
-\### Clone the Repository
+### Clone the Repository
 
 
 
@@ -178,7 +160,7 @@ Open a terminal and execute:
 
 ```bash
 
-git clone <YOUR\_GITHUB\_REPOSITORY\_URL>
+git clone github.com/gauravmes9a11-alt/SE-Lab-Projects
 
 ```
 
@@ -224,11 +206,11 @@ Follow the instructions provided with the experiment to configure dependencies a
 
 
 
-\---
+---
 
 
 
-\## Repository Guidelines
+## Repository Guidelines
 
 
 
@@ -236,27 +218,28 @@ This repository is intended to remain organized, readable, and useful for future
 
 
 
-\- Preserve the original purpose and structure of each experiment.
+- Preserve the original purpose and structure of each experiment.
 
-\- Keep documentation consistent with the actual implementation.
+- Keep documentation consistent with the actual implementation.
 
-\- Avoid uploading passwords, API keys, access tokens, or other sensitive information.
+- Avoid uploading passwords, API keys, access tokens, or other sensitive information.
 
-\- Use Git commits with meaningful messages to describe changes.
+- Use Git commits with meaningful messages to describe changes.
 
-\- Verify that project files are included before pushing updates.
-
-
-
-\---
+- Verify that project files are included before pushing updates.
 
 
 
-\## Author
+---
 
 
 
-\*\*Gaurav Shivakumar\*\*
+## Author
+
+
+
+**Gaurav Shivakumar**
+**PES1UG24AM104**
 
 
 
@@ -264,9 +247,9 @@ Software Engineering Laboratory Coursework
 
 
 
-\---
+---
 
 
 
-\#THANKYOU
+#THANKYOU
 
