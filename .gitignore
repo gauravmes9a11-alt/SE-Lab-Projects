@@ -1,0 +1,36 @@
+
+# Windows files
+Thumbs.db
+Desktop.ini
+
+# IDE settings
+.vscode/
+.idea/
+
+# Temporary files and logs
+*.tmp
+*.temp
+*.bak
+*.log
+
+# Secrets
+.env
+.env.*
+!.env.example
+
+# Python cache and virtual environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Java compiled files
+*.class
+
+# Build output
+build/
+dist/
+out/
+
+# Node.js dependencies
+node_modules/
