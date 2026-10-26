@@ -178,7 +178,7 @@ cd SE\_Labs
 
 
 
-\### Explore a Laboratory
+### Explore a Laboratory
 
 
 
@@ -202,7 +202,7 @@ Follow the instructions provided with the experiment to configure dependencies a
 
 
 
-\*\*Note:\*\* There is no single run command for every lab. Refer to the individual project's files and documentation for its specific execution procedure.
+**Note:** There is no single run command for every lab. Refer to the individual project's files and documentation for its specific execution procedure.
 
 
 
@@ -251,5 +251,5 @@ Software Engineering Laboratory Coursework
 
 
 
-#THANKYOU
+**THANKYOU**
 
