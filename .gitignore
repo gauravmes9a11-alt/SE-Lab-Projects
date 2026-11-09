@@ -34,3 +34,12 @@ out/
 
 # Node.js dependencies
 node_modules/
+
+# Pytest and coverage reports
+.pytest_cache/
+.coverage
+.coverage.*
+htmlcov/
+
+# Hypothesis temporary database
+.hypothesis/
